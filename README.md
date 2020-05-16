@@ -8,7 +8,7 @@
 ###
 ## ch4. Preprocessing
 ###
-## ch5. Demesion Reduction
+## ch5. Demension Reduction
 ###
 ## ch6. Hyperparameter Tuning
 ###
