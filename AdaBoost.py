@@ -61,7 +61,7 @@ weight3 = (weight2 * weight_update2) / Z2
 err3 = sum(evaluation3 * weight3)
 
 alpha3 = 0.5 * np.log((1 - err3) / err3)
-
+ 
 weight_update3 = np.exp(alpha3 * dataset["h3(xi)"] * dataset["y"])
 
 Z3 = sum(weight3 * weight_update3)
