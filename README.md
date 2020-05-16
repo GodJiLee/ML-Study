@@ -6,3 +6,10 @@
 ###
 ## ch3. Logistic Regression
 ###
+## ch4. Preprocessing
+###
+## ch5. Demesion Reduction
+###
+## ch6. Hyperparameter Tuning
+###
+## ch7. Ensemble Learning
