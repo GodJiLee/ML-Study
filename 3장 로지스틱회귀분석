@@ -23,7 +23,7 @@ print('클래스 레이블: ', np.unique(y))
 
 
 # In[2]:
-
+ 
 
 from sklearn.model_selection import train_test_split
 
