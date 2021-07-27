@@ -3,7 +3,7 @@
 
 📁 **Summary**
 
-Date|Title|Description
+Chapter|Title|Description
 ---|---|---
 Ch 2|[PPN](https://github.com/GodJiLee/ML_with_Python-Tensorflow-Scikit-learn/blob/c9ac5c1fd85b2d4475a20f9717c62230bb55981f/02%EC%9E%A5_%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0)|퍼셉트론 학습 알고리즘 구현 및 확률적 경사 하강법으로 결과 향상
 Ch 3|[Logistic Regression](https://github.com/GodJiLee/ML_with_Python-Tensorflow-Scikit-learn/blob/c9ac5c1fd85b2d4475a20f9717c62230bb55981f/03%EC%9E%A5_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80)|다층 클래스 분류를 위한 로지스틱 회귀, 서포트 벡터 머신, 결정트리, 랜덤 포레스트
